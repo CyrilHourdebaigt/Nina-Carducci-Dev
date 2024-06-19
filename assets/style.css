@@ -354,3 +354,10 @@ input[type="submit"] {
 	}
 }
 
+.nav-link.active-tag {
+	background-color: #5B5225;
+}
+
+.d-none {
+	display:none;
+}
